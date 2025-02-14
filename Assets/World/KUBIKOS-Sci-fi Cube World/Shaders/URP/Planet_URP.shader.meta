@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3f29f30aecf861444b4d4e0e373d1584
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Planets_1_N: {fileID: 2800000, guid: 2a05f67882bb4f14da2f4a5bc7b28869, type: 3}
+  - _Planets_1_E: {fileID: 2800000, guid: cfcc7ee8bafd9e74c9c7eef8e0aebc62, type: 3}
+  - _Planets_1_AO: {fileID: 2800000, guid: 6dd98661371e67f4b8a05b352d5f2607, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292114
+  packageName: KUBIKOS - Sci-fi Cube World
+  packageVersion: 1.0
+  assetPath: Assets/KUBIKOS-Sci-fi Cube World/Shaders/URP/Planet_URP.shader
+  uploadId: 682908

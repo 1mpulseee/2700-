@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39b72402c6b4d8e409520a3ea71a168b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292114
+  packageName: KUBIKOS - Sci-fi Cube World
+  packageVersion: 1.0
+  assetPath: Assets/KUBIKOS-Sci-fi Cube World/Materials URP/Cubes/Cube_Plastic_Hexagon_URP.mat
+  uploadId: 682908

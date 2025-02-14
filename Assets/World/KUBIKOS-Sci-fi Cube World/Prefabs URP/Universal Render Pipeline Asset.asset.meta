@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d9f079de75eb6da42b8c36ddb092c932
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292114
+  packageName: KUBIKOS - Sci-fi Cube World
+  packageVersion: 1.0
+  assetPath: Assets/KUBIKOS-Sci-fi Cube World/Prefabs URP/Universal Render Pipeline
+    Asset.asset
+  uploadId: 682908

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fc9e92481b224245be914403b38d47d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292114
+  packageName: KUBIKOS - Sci-fi Cube World
+  packageVersion: 1.0
+  assetPath: Assets/KUBIKOS-Sci-fi Cube World/Materials URP/Cubes/Cube_Metal_RustyBumped_URP.mat
+  uploadId: 682908

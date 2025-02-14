@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb33621ee60ba2b4d854ca4f982e35cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292114
+  packageName: KUBIKOS - Sci-fi Cube World
+  packageVersion: 1.0
+  assetPath: Assets/KUBIKOS-Sci-fi Cube World/Materials URP/Cubes/Cube_MetalFloor_22_URP.mat
+  uploadId: 682908

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6eb0f9a9fdd6509468bb995858f18a89
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292114
+  packageName: KUBIKOS - Sci-fi Cube World
+  packageVersion: 1.0
+  assetPath: Assets/KUBIKOS-Sci-fi Cube World/Materials URP/Cubes/Cube_Checker_Blue_URP.mat
+  uploadId: 682908

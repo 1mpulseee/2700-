@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5ba0684c7e171d41ac8d4361197249a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292114
+  packageName: KUBIKOS - Sci-fi Cube World
+  packageVersion: 1.0
+  assetPath: Assets/KUBIKOS-Sci-fi Cube World/Materials URP/Cubes/Cube_Concrete_Checker_2_URP.mat
+  uploadId: 682908
