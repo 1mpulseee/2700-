@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e27ac21e8c3943145bbe3aaccae11eed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176293
+  packageName: SciFi Space Station Heavy
+  packageVersion: 1.1.1
+  assetPath: Assets/_DLNK/SS Heavy/Source/Motion/EnginePillar00.controller
+  uploadId: 629740

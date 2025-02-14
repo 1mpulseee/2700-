@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d9648c1810e84cf419f58d369485b242
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176293
+  packageName: SciFi Space Station Heavy
+  packageVersion: 1.1.1
+  assetPath: Assets/_DLNK/_DLNK Source/_DLNK Libraries/[dlnk Script Library]/TopDown
+    Wizard/Source/Scripts/TDActiveElement.cs
+  uploadId: 629740
