@@ -1,0 +1,7 @@
+When Importing the packages, sometimes something might go wrong and in DemoScene you can see a lot of errors. If this happens, open each Shade Graph
+in "SineVfX/LightningSystem/AssetResources/Shaders" and re-save them. If this doesn't fix the issue, try to restart the Editor and reimport the URP package
+again.
+
+
+
+Support email: sinevfx@gmail.com

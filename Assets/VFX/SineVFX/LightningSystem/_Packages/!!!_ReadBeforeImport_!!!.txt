@@ -1,0 +1,10 @@
+1. Unpack the right package for your pipeline and don't unpack the other, pick only one.
+
+2. After unpacking, check the "SineVFX/LightningSystem/Scenes/DemoScene" and test the effects. Also, read the Quick Start Guide for each specific System in the _Documentation folder.
+
+3. If you using URP make sure, you enable HDR, Depth, and Opaque textures in URP Asset settings.
+
+4. For better visual results use Linear Rendering instead of Gamma. You can choose it in a "Project Settings/Player" menu
+
+
+Support email: sinevfx@gmail.com
