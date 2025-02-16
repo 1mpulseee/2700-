@@ -1,0 +1,1137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3066251609724180128
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2433724163641576474}
+  - component: {fileID: 1614972223253840831}
+  - component: {fileID: 3570650713232766837}
+  - component: {fileID: 3683309194830619860}
+  - component: {fileID: 2825886688469869529}
+  - component: {fileID: 5760864775487215443}
+  - component: {fileID: 3914228702197465596}
+  - component: {fileID: 9126953498331144208}
+  - component: {fileID: 4246386368678827751}
+  m_Layer: 0
+  m_Name: Electricbox_main
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &2433724163641576474
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3066251609724180128}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2989538189173630220}
+  - {fileID: 6185529487750023434}
+  - {fileID: 1532923967327183666}
+  - {fileID: 2433724163104355102}
+  - {fileID: 1532923966075133614}
+  - {fileID: 1532923966091116533}
+  - {fileID: 1532923965759003205}
+  - {fileID: 1532923965867763764}
+  - {fileID: 1532923965716334320}
+  - {fileID: 1532923966217911465}
+  - {fileID: 4717110455688756917}
+  - {fileID: 4717110457052682805}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1614972223253840831
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3066251609724180128}
+  m_Mesh: {fileID: 3659615970408131153, guid: 238737af1aec5774b9df8e080d241f5e, type: 3}
+--- !u!23 &3570650713232766837
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3066251609724180128}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b866e9725dca49e43921af76ed2fafbe, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 2
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &3683309194830619860
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3066251609724180128}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.050681606, y: 0.5855011, z: 0.13744737}
+  m_Center: {x: 0.17958906, y: -0.0000062584877, z: 0.06882665}
+--- !u!65 &2825886688469869529
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3066251609724180128}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.05068162, y: 0.5855011, z: 0.13744736}
+  m_Center: {x: -0.17958905, y: -0.0000062584877, z: 0.068826705}
+--- !u!65 &5760864775487215443
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3066251609724180128}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.40985972, y: 0.050015926, z: 0.13744742}
+  m_Center: {x: 0.000000014901161, y: 0.2697245, z: 0.068826675}
+--- !u!65 &3914228702197465596
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3066251609724180128}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.40985972, y: 0.04804027, z: 0.13744742}
+  m_Center: {x: 0.000000007450581, y: -0.26873666, z: 0.068826675}
+--- !u!65 &9126953498331144208
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3066251609724180128}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.1404052, y: 0.096211195, z: 0.07865908}
+  m_Center: {x: 0.00091768056, y: 0.5072373, z: 0.039104465}
+--- !u!65 &4246386368678827751
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3066251609724180128}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.40985972, y: 0.5855011, z: 0.06220632}
+  m_Center: {x: 0, y: -0.0000062584877, z: 0.031206127}
+--- !u!1 &4570272982081927462
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2989538189173630220}
+  - component: {fileID: 9139666136104254261}
+  - component: {fileID: 1393617685613702503}
+  - component: {fileID: 6461283379428222405}
+  m_Layer: 0
+  m_Name: Electricbox_mainswitch
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &2989538189173630220
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4570272982081927462}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0720895, y: -0.16228223, z: 0.07575508}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2433724163641576474}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &9139666136104254261
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4570272982081927462}
+  m_Mesh: {fileID: -5303954402899440442, guid: 238737af1aec5774b9df8e080d241f5e, type: 3}
+--- !u!23 &1393617685613702503
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4570272982081927462}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b866e9725dca49e43921af76ed2fafbe, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 2.3
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6461283379428222405
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4570272982081927462}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.047548722, y: 0.060437907, z: 0.023017041}
+  m_Center: {x: 0, y: -0.0064445976, z: 0.011508519}
+--- !u!1001 &1354654695889426871
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2433724163641576474}
+    m_Modifications:
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0009
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.17746
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.09752
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4429317
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.00000017881393
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.8965554
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -127.41801
+      objectReference: {fileID: 0}
+    - target: {fileID: 4053574822412890131, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_Name
+      value: Electricbox_fuse_holder
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb5034a88d7f0644bad052029b21ef35, type: 3}
+--- !u!4 &2433724163104355102 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+    type: 3}
+  m_PrefabInstance: {fileID: 1354654695889426871}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2759838258114130156
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2433724163641576474}
+    m_Modifications:
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.08256
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.01906
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0975
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.98870677
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.14986287
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -17.238
+      objectReference: {fileID: 0}
+    - target: {fileID: 4053574822412890131, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_Name
+      value: Electricbox_fuse_holder
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb5034a88d7f0644bad052029b21ef35, type: 3}
+--- !u!4 &1532923965759003205 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+    type: 3}
+  m_PrefabInstance: {fileID: 2759838258114130156}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2759838258155744345
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2433724163641576474}
+    m_Modifications:
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.08013
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.01906
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.098
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.056852795
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000089406946
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000022351736
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.99838257
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 173.48201
+      objectReference: {fileID: 0}
+    - target: {fileID: 4053574822412890131, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_Name
+      value: Electricbox_fuse_holder
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb5034a88d7f0644bad052029b21ef35, type: 3}
+--- !u!4 &1532923965716334320 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+    type: 3}
+  m_PrefabInstance: {fileID: 2759838258155744345}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2759838258590029312
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2433724163641576474}
+    m_Modifications:
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0009
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.22489
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.09752
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.26797938
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.35449144
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.86922574
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.21672435
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -10.764001
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -140.904
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -48.206
+      objectReference: {fileID: 0}
+    - target: {fileID: 4053574822412890131, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_Name
+      value: Electricbox_fuse_holder
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb5034a88d7f0644bad052029b21ef35, type: 3}
+--- !u!4 &1532923966217911465 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+    type: 3}
+  m_PrefabInstance: {fileID: 2759838258590029312}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2759838258716759388
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2433724163641576474}
+    m_Modifications:
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.08256
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.07958
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0975
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8871061
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.46156543
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -54.976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4053574822412890131, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_Name
+      value: Electricbox_fuse_holder
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb5034a88d7f0644bad052029b21ef35, type: 3}
+--- !u!4 &1532923966091116533 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+    type: 3}
+  m_PrefabInstance: {fileID: 2759838258716759388}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2759838258765771783
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2433724163641576474}
+    m_Modifications:
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.08013
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.17746
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.098
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8396323
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00000005960463
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.54315543
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 65.797005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4053574822412890131, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_Name
+      value: Electricbox_fuse_holder
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb5034a88d7f0644bad052029b21ef35, type: 3}
+--- !u!4 &1532923966075133614 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+    type: 3}
+  m_PrefabInstance: {fileID: 2759838258765771783}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2759838259005089937
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2433724163641576474}
+    m_Modifications:
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.07530021
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.23323
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.11630251
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.38645804
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.45463988
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.22839502
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.76927793
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -151.166
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -233.34698
+      objectReference: {fileID: 0}
+    - target: {fileID: 7814220468236347422, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_Name
+      value: Electricbox_fuse
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 550b48d50038f0a44a2d0b777c179439, type: 3}
+--- !u!4 &4717110457052682805 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+    type: 3}
+  m_PrefabInstance: {fileID: 2759838259005089937}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2759838259112067741
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2433724163641576474}
+    m_Modifications:
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0009
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.01906
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.09752
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9409517
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.00000017881392
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00000008940696
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.3385409
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -39.576
+      objectReference: {fileID: 0}
+    - target: {fileID: 4053574822412890131, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_Name
+      value: Electricbox_fuse_holder
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb5034a88d7f0644bad052029b21ef35, type: 3}
+--- !u!4 &1532923965867763764 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+    type: 3}
+  m_PrefabInstance: {fileID: 2759838259112067741}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2759838259297897489
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2433724163641576474}
+    m_Modifications:
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.10100031
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.23323
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.11100009
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8110312
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000017725656
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.58500284
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000012785646
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -18.394001
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7814220468236347422, guid: 550b48d50038f0a44a2d0b777c179439,
+        type: 3}
+      propertyPath: m_Name
+      value: Electricbox_fuse
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 550b48d50038f0a44a2d0b777c179439, type: 3}
+--- !u!4 &4717110455688756917 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7438364051628896932, guid: 550b48d50038f0a44a2d0b777c179439,
+    type: 3}
+  m_PrefabInstance: {fileID: 2759838259297897489}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2759838259766577563
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2433724163641576474}
+    m_Modifications:
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.08256
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.17746
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0975
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -81.035
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4053574822412890131, guid: eb5034a88d7f0644bad052029b21ef35,
+        type: 3}
+      propertyPath: m_Name
+      value: Electricbox_fuse_holder
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb5034a88d7f0644bad052029b21ef35, type: 3}
+--- !u!4 &1532923967327183666 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3677998884364446377, guid: eb5034a88d7f0644bad052029b21ef35,
+    type: 3}
+  m_PrefabInstance: {fileID: 2759838259766577563}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5935132115102740193
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2433724163641576474}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.15880013
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.01030004
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.13619998
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.2944739
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.95565957
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -145.748
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_Name
+      value: Electricbox_door
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 224993d7ab01b7f4ba1094dfa04a2c06, type: 3}
+--- !u!4 &6185529487750023434 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+    type: 3}
+  m_PrefabInstance: {fileID: 5935132115102740193}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6817529438905504688 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 224993d7ab01b7f4ba1094dfa04a2c06,
+    type: 3}
+  m_PrefabInstance: {fileID: 5935132115102740193}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &4926389155197363223
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6817529438905504688}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.31965593, y: 0.49861965, z: 0.006469604}
+  m_Center: {x: 0.15794896, y: 0.009526446, z: -0.0016075376}

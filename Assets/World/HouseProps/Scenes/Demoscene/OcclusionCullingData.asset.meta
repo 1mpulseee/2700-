@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17a6aa852027fbf4498933b38563bfaa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265523
+  packageName: House Props & Furniture Vol. 2
+  packageVersion: 1.2.0
+  assetPath: Assets/HouseProps/Scenes/Demoscene/OcclusionCullingData.asset
+  uploadId: 695547
