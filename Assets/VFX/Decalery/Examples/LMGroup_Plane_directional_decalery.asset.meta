@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: df454db9a6cacad4bafa2e0c3125dc96
+timeCreated: 1539192753
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/LMGroup_Plane_directional_decalery.asset
+  uploadId: 698891

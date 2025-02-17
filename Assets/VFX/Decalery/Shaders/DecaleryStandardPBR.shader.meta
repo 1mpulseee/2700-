@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3b62b324535eac646bd850a6ddec9a8a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Shaders/DecaleryStandardPBR.shader
+  uploadId: 698891

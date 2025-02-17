@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d3d670cfd3ed2c547b2781d0946a51c2
+timeCreated: 1539192770
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/LMGroup_Plane_SH_decalery.asset
+  uploadId: 698891

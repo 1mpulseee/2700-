@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca848414f08f6b84e9798863217a8151
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/example_decals_editor/LightingData.asset
+  uploadId: 698891

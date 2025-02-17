@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4212ad41fb168b144a0a49e7460723de
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/fGPUDecalWriteShaderShared.cginc
+  uploadId: 698891

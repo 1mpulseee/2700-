@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a8beab422e4fe741939473cee268feb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/DecalMeshRef.cs
+  uploadId: 698891

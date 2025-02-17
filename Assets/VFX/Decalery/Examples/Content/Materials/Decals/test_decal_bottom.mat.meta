@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b4e4572e900cee45b3faeb39560e698
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/Content/Materials/Decals/test_decal_bottom.mat
+  uploadId: 698891

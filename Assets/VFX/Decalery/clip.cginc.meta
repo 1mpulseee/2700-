@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cebbd939577b6964d9571df9d1968a3d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/clip.cginc
+  uploadId: 698891

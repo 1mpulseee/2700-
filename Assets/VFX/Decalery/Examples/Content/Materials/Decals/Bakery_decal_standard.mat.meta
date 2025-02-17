@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03f8e846af9310448a300367e657b9c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/Content/Materials/Decals/Bakery_decal_standard.mat
+  uploadId: 698891

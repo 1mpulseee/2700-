@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e4e7d764d9198a14eb088a97015dbbbf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/DecalLightmapsStorage.cs
+  uploadId: 698891

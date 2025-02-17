@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a8cfbd70826c5f4ea398f9f18c442bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/DecalExampleWheel.cs
+  uploadId: 698891

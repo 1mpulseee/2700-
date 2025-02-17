@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 048ea6841cc34ba4b822aecdd773db05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/CPUBurstDecalUtils.cs
+  uploadId: 698891

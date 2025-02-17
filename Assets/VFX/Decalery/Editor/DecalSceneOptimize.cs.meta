@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 85580de5c665aa8488fc08ee7b8b9855
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Editor/DecalSceneOptimize.cs
+  uploadId: 698891

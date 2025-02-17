@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60984728023e0cb4da2a3868280f9c9d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/Content/Materials/Decals/paintSplatWhite_Standard.mat
+  uploadId: 698891

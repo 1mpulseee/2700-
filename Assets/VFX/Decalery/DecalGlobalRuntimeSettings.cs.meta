@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 125f29b6e7d6fcb4fa085619759c307d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/DecalGlobalRuntimeSettings.cs
+  uploadId: 698891

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f19cdcc6d82a8904e815cef972f780ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Resources/DecalTypes/HoleConcrete.asset
+  uploadId: 698891

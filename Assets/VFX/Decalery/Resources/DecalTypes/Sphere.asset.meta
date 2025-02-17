@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e1ed6a77e3b02c46a92ca9d898d67ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Resources/DecalTypes/Sphere.asset
+  uploadId: 698891

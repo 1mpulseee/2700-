@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d291fce593a84af49a36c68689789c89
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Shaders/BakeryDecalSupport.cginc
+  uploadId: 698891

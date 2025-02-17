@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1fb71441909987479cca22f129b535d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Resources/DecalTypes/TyreTracks.asset
+  uploadId: 698891

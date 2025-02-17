@@ -1,0 +1,28 @@
+{
+    "name": "Decalery",
+    "references": [
+        "BakeryRuntimeAssembly",
+        "Unity.Burst",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.burst",
+            "expression": "0.0.0",
+            "define": "USE_BURST"
+        },
+        {
+            "name": "com.unity.mathematics",
+            "expression": "0.0.0",
+            "define": "USE_NEWMATHS"
+        }
+    ],
+    "noEngineReferences": false
+}

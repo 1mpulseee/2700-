@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b74f3614710d65f4bbb537c050fe60c2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/Content/Materials/Decals/holeMetal_Standard.mat
+  uploadId: 698891

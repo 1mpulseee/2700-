@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 89316f66596d7544c8810523d79760b2
+timeCreated: 1537021853
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/DecalGroup.cs
+  uploadId: 698891

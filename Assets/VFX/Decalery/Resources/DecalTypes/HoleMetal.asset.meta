@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9303b2dca20019847b34d437e6917642
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Resources/DecalTypes/HoleMetal.asset
+  uploadId: 698891

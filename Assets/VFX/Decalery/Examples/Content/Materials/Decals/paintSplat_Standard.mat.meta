@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8de379a30b1d1b94eb4b61b87b3836f4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/Content/Materials/Decals/paintSplat_Standard.mat
+  uploadId: 698891

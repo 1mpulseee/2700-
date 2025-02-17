@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e12a4e38ae55d6a4da22dac85bd261b2
+timeCreated: 1523975806
+licenseType: Free
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/Content/Materials/sponza_bricks_a_diff.mat
+  uploadId: 698891

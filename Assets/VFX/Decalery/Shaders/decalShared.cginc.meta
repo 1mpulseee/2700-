@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4c41b49356f341a4588ca2d8feacbf71
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Shaders/decalShared.cginc
+  uploadId: 698891

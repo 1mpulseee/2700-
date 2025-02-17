@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75f5d2d698a1efb4194bc70a693074e3, type: 3}
+  m_Name: TyreTracks
+  m_EditorClassIdentifier: 
+  decalSettings:
+    material: {fileID: 2100000, guid: c426cec591c7a9a4e8d4c40baa9c249b, type: 2}
+    isTrail: 1
+    trailInterval: 0.05
+    trailVScale: 1
+    tangents: 0
+    inheritMaterialPropertyBlock: 1
+    _forceBumped: 0
+    useShaderReplacement: 1
+    shaderReplacement: []

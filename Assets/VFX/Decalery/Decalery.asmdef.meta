@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a137bad436adb014385c91ff56cde750
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Decalery.asmdef
+  uploadId: 698891

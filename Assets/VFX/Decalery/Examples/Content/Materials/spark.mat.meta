@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57f6a4def33814f4d912c08a3d5f4043
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/Content/Materials/spark.mat
+  uploadId: 698891

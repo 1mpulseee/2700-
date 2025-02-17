@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b857c26f826ec9742966e1191da9024c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Shaders/DecalerySimple.shader
+  uploadId: 698891

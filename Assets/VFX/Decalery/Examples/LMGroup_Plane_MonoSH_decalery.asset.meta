@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aed691fec1a1e3b449d13fa2e701dfa7
+timeCreated: 1539192740
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293468
+  packageName: Decalery
+  packageVersion: 1.101
+  assetPath: Assets/Decalery/Examples/LMGroup_Plane_MonoSH_decalery.asset
+  uploadId: 698891
