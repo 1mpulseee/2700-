@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: edc71918ac532844ca58a9ec08fde92b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250277
+  packageName: Seamless - Shader Graph Extension
+  packageVersion: 1.3.0
+  assetPath: Assets/SeamlessSGExtension/Demo/Scripts/Turn.cs
+  uploadId: 739296

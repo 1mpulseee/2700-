@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 336f176b7e2e6d848b0d3d756608eb0f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250277
+  packageName: Seamless - Shader Graph Extension
+  packageVersion: 1.3.0
+  assetPath: Assets/SeamlessSGExtension/Demo/Prefabs/Room.prefab
+  uploadId: 739296

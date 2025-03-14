@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8d5d8b57e79d89b42a795a87514ac9d6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 60072b568d64c40a485e0fc55012dc9f, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250277
+  packageName: Seamless - Shader Graph Extension
+  packageVersion: 1.3.0
+  assetPath: Assets/SeamlessSGExtension/Subgraphs/Voronoise.shadersubgraph
+  uploadId: 739296

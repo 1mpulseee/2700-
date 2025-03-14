@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22f79f4b1f1291141bef0f86027a2c72
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250277
+  packageName: Seamless - Shader Graph Extension
+  packageVersion: 1.3.0
+  assetPath: Assets/SeamlessSGExtension/Examples/Caustics/Caustics.mat
+  uploadId: 739296
