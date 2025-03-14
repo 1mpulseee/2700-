@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40648ef4ebef26d4c9cc0663c2f08e5e
+timeCreated: 1471608664
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/RCC_BrakeLight.prefab
+  uploadId: 732724

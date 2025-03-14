@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f32ea4a11500b344ae05427bdc21e05
+timeCreated: 1471447953
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/RCC_Camera.prefab
+  uploadId: 732724

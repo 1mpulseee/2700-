@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22a9e629a89fdb749947731ca99b4ad2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/E46_New/Mat/E46_Rubber.mat
+  uploadId: 732724

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0226ee41c8d33bf4c8ae2774c1566c50
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Resources/RCC_WindowSkin.guiskin
+  uploadId: 732724

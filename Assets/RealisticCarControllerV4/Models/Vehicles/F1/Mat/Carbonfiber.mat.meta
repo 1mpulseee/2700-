@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b514a72f1125f56498aa65e1201471d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/F1/Mat/Carbonfiber.mat
+  uploadId: 732724

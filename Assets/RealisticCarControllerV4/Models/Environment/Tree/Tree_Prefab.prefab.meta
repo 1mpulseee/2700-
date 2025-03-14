@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e1e882a7b0b64a46a420bae5f0a8f1c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Environment/Tree/Tree_Prefab.prefab
+  uploadId: 732724

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 47dbd5ef736e8784f82ecb8ebf70f429
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/Vehicles/Muscle.prefab
+  uploadId: 732724

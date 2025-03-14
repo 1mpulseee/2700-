@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfb4da4001c18ce4187b6c1865e43e6c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Wheels/Mat/Wheel7_Rim.mat
+  uploadId: 732724

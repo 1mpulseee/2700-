@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9d364e7b09e52a4aa9035fa95c79605
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/F1/Mat/Rim.mat
+  uploadId: 732724

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c4b504911cf1937478397765c1bc099c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Editor/Customization/RCC_Customizer_NeonEditor.cs
+  uploadId: 732724

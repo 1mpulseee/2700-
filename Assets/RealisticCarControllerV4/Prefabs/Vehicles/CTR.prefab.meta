@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e4f5358be5ec5142b505cdeab793b79
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/Vehicles/CTR.prefab
+  uploadId: 732724

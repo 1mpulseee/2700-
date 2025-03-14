@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8569ca57dfb46b745a3d2c4115802e34
+timeCreated: 1513697428
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/Vehicles/Skyline.prefab
+  uploadId: 732724

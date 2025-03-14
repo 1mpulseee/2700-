@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a6e1068fc9e46f40b75b566ca49dfb2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/City/Mat/Containers.mat
+  uploadId: 732724

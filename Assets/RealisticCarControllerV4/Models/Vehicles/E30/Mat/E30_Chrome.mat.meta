@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8bcbda1cc1004b418e8e321ae9449e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/E30/Mat/E30_Chrome.mat
+  uploadId: 732724

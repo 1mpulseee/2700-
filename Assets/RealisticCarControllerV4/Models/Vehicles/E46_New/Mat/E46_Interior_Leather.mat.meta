@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7061117edb32f94093ab651d3a1d15a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/E46_New/Mat/E46_Interior_Leather.mat
+  uploadId: 732724

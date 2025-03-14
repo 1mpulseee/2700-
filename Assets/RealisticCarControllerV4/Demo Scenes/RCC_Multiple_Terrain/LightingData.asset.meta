@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 853423f01d8ea4249b2a2629d4e7c174
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Demo Scenes/RCC_Multiple_Terrain/LightingData.asset
+  uploadId: 732724

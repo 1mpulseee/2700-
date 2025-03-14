@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c84de2ce85b0ee45b21b5fc6c294f4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Siren/Materials/Siren_Glass.mat
+  uploadId: 732724

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6302ecb129e28c44b9601fc4521b82db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/Jeep/Mat/Chrome.mat
+  uploadId: 732724

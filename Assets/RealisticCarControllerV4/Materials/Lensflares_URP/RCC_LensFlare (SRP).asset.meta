@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea483a96690d5a348ad4ec95dcce03d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Materials/Lensflares_URP/RCC_LensFlare
+    (SRP).asset
+  uploadId: 732724

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c7ad3d1d6a569844e9df9ba41bb2b4b5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Documentation/Scripting Documentation/RCC_AICarController.pdf
+  uploadId: 732724

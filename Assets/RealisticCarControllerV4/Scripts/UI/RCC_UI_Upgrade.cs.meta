@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6e4771facae63c44ebcf90477df6eccc
+timeCreated: 1481122040
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Scripts/UI/RCC_UI_Upgrade.cs
+  uploadId: 732724

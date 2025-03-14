@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: de20e2086fa3b5642a464c251c3a0c87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Scripts/Customization/RCC_Customizer_Loadout.cs
+  uploadId: 732724

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 19cf1e0d4aecec64dbff0155d7d86acc
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Documentation/Scripting Documentation/RCC_CarSelectionExample.pdf
+  uploadId: 732724

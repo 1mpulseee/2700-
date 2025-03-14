@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b1e43849c5000340a4d53ea10ba1744
+timeCreated: 1513697428
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/Vehicles/Skyline (AI Chaser).prefab
+  uploadId: 732724

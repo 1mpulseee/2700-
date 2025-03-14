@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 23dc8521a83d1a14583215407690525e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Editor/ScriptableObjects/RCC_FixAxisWindow.cs
+  uploadId: 732724

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 91928b6b1dbb9a8468afaecd0dca1c81
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Editor/Windows/RCC_CheckAxisOrientation.cs
+  uploadId: 732724

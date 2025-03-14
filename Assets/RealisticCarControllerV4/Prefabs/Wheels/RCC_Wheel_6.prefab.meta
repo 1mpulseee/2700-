@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 43f9e40522cc6d647b8263c092854a43
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/Wheels/RCC_Wheel_6.prefab
+  uploadId: 732724

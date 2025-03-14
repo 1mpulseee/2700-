@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bd71d0846189562469b40fc2f77babc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Editor/Customization/RCC_Customizer_Upgrade_EngineEditor.cs
+  uploadId: 732724

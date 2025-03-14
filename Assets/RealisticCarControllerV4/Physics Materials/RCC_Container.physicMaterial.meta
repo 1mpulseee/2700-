@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f448f5174fe1e9d4fa069d4a075eea2a
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Physics Materials/RCC_Container.physicMaterial
+  uploadId: 732724

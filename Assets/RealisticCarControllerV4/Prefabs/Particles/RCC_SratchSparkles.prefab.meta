@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ff0e422d9bf66249b14d124d7a2b3b0
+timeCreated: 1435340397
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/Particles/RCC_SratchSparkles.prefab
+  uploadId: 732724

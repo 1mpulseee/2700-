@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 984330594aef1e94a84c9788ad175a6e
+timeCreated: 1436056822
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/Particles/RCC_WheelSlipBurnout.prefab
+  uploadId: 732724

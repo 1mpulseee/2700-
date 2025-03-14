@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c23229b4aea6d4646b7719999e842a21
+timeCreated: 1455150854
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Resources/RCC Assets/RCC_DemoVehicles.asset
+  uploadId: 732724

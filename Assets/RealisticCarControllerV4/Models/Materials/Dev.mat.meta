@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3daa9d3919a99444fb9c089c3ae0f7ea
+timeCreated: 1447605107
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Materials/Dev.mat
+  uploadId: 732724

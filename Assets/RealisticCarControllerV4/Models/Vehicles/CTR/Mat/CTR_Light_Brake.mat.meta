@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4eca01b66b2b7d4aa3cabbf24d2a4b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/CTR/Mat/CTR_Light_Brake.mat
+  uploadId: 732724

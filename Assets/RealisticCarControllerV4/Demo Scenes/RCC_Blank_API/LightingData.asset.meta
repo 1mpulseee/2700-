@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fdd064a76f81b364bb87fe9a841d7ba5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Demo Scenes/RCC_Blank_API/LightingData.asset
+  uploadId: 732724

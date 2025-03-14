@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78de263dac5fa5b4493c0dddd051641d
+timeCreated: 1433711748
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/LICENSE - Read Me!.txt
+  uploadId: 732724

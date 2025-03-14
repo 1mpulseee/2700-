@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d33ce699feab7149996d3c6954d4fef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/Muscle/Mat/Muscle2_Lights_Inside_Fog.mat
+  uploadId: 732724

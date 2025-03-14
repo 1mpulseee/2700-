@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df7474a87fbcf514198c3c448a091bfa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/F1/Mat/Buttom.mat
+  uploadId: 732724

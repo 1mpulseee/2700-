@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03c054bf14f7f8e489c3b0bb2c9d9d79
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Demo Scenes/RCC_City_CarSelectionWithLoadScene/LightingData.asset
+  uploadId: 732724

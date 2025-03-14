@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8464d34087cb76d469da3cfda3c6f1fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Bridge/Mat/Asphalt.mat
+  uploadId: 732724

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 443c0a0960afad44787027e5b29c809b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Spoilers/Mat/Spoiler_Paint.mat
+  uploadId: 732724

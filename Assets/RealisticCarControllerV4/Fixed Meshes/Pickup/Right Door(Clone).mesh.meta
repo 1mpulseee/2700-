@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d8d498eb1c6da54e941c9d96451d7f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Fixed Meshes/Pickup/Right Door(Clone).mesh
+  uploadId: 732724

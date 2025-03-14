@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a53c599faf164c34abd2abb52e3e9212
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/Crashers/Crasher_1.prefab
+  uploadId: 732724

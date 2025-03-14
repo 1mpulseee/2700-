@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d6d97aba05a625d44879c150dd7a0c34
+timeCreated: 1479215879
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Animators & Animations/RCC Cinematic
+    Animation.anim
+  uploadId: 732724

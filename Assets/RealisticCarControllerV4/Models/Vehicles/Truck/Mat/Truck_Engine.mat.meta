@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8b127a4d684a624e99679dc2e9f0bad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/Truck/Mat/Truck_Engine.mat
+  uploadId: 732724

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6aaa2ccdca4fea04dae77f8275037d91
+timeCreated: 1445168598
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Physics Materials/RCC_PlatformPhysics.physicMaterial
+  uploadId: 732724

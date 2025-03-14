@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fdab0ff4336203e40b578f4cbf5b5801
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/Coupe/Mat/Indicator
+    Lights.mat
+  uploadId: 732724

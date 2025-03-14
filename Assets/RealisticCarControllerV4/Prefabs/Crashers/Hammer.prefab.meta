@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac8b34bc50affa94ea02e5d98c9128bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/Crashers/Hammer.prefab
+  uploadId: 732724

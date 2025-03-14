@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b59743a9c41c20445833c2d629639e9c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/CTR/Mat/CTR_Buttom.mat
+  uploadId: 732724

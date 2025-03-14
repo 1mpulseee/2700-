@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4415b0192d4843a4b859c6fbcd98aa0f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Editor/Customization/RCC_Customizer_PaintEditor.cs
+  uploadId: 732724

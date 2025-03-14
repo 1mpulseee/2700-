@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 188c477ab444228409c4a246c02a86bd
+timeCreated: 1471608647
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/RCC_ReverseLight.prefab
+  uploadId: 732724

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d19e98ba283a8f14f9b31e6cf447b81a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Editor/Components/RCC_CameraEditor.cs
+  uploadId: 732724

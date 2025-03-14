@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bbc9f1adb9945a54bb5b394902ad2699
+timeCreated: 1460237445
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Scripts/UI/RCC_DashboardColors.cs
+  uploadId: 732724

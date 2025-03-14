@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2c6ad050d0f316542b852e37fd7ed3dc
+timeCreated: 1460585326
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Scripts/UI/RCC_UI_SteeringWheelController.cs
+  uploadId: 732724

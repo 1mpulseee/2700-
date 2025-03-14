@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 329bfd12784c4c24f834463bc2995114
+timeCreated: 1465321476
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Scripts/Camera/RCC_FixedCamera.cs
+  uploadId: 732724

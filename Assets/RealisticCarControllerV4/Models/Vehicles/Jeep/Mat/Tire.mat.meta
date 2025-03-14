@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a9672fbe23315645b3d54b7b831a8f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/Jeep/Mat/Tire.mat
+  uploadId: 732724

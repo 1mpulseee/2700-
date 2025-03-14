@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 99b6935d46b22894f94812ad5643b4ad
+timeCreated: 1510613559
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Scripts/UI/RCC_InfoLabel.cs
+  uploadId: 732724

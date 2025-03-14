@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0357d8b11b6651c4c8146491eb5ce0ec
+timeCreated: 1506125162
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Scripts/RCC_ColorPickerBySliders.cs
+  uploadId: 732724

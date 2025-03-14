@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da685c9676ead6248ab3ac0019efb88e
+timeCreated: 1458253631
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Materials/Particles/RCC_Exhaust.mat
+  uploadId: 732724

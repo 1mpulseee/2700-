@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 660ec4b1fd79fa74096f0ab9e6cbd2ca
+timeCreated: 1471608620
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/RCC_HeadLight.prefab
+  uploadId: 732724

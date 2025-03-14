@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b1c534c7466b8e4e918a77c360f45ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/Vehicles/F1.prefab
+  uploadId: 732724

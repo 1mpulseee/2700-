@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c47488beba81ee4883ddccb47468247
+timeCreated: 1505662903
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/Model_Skyline by BUMSTRUM/Mat/Skyline_Body.mat
+  uploadId: 732724

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a8f55ca77ed88104bbc450f54b1992dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Editor/Customization/RCC_Customizer_SirenEditor.cs
+  uploadId: 732724

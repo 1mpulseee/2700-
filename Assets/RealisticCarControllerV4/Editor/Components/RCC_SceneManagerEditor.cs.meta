@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 14f19dbcdeb9a234e8328f354229e88b
+timeCreated: 1514899951
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Editor/Components/RCC_SceneManagerEditor.cs
+  uploadId: 732724

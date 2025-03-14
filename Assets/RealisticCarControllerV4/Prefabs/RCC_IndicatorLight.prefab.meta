@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 580925c070bc6064c90563e08cb421f0
+timeCreated: 1471609346
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/RCC_IndicatorLight.prefab
+  uploadId: 732724

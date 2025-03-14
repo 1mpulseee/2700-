@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ffd4f1cf6abdbb4f9f9995a5122154b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/Coupe/Mat/Brake Disc.mat
+  uploadId: 732724

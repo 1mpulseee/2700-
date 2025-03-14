@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15aa5867c2385d04381bf7dd1bf39ddd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Fixed Meshes/Jeep/Left Door(Clone).mesh
+  uploadId: 732724

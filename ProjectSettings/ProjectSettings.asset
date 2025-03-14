@@ -817,7 +817,24 @@ PlayerSettings:
   webWasm2023: 0
   webEnableSubmoduleStrippingCompatibility: 0
   scriptingDefineSymbols:
-    Standalone: DECALERY_INCLUDED
+    Android: BCG_RCC;RCC_RP;RCC_URP
+    EmbeddedLinux: BCG_RCC;RCC_RP;RCC_URP
+    GameCoreScarlett: BCG_RCC;RCC_RP;RCC_URP
+    GameCoreXboxOne: BCG_RCC;RCC_RP;RCC_URP
+    Kepler: BCG_RCC;RCC_RP;RCC_URP
+    LinuxHeadlessSimulation: BCG_RCC;RCC_RP;RCC_URP
+    Nintendo Switch: BCG_RCC;RCC_RP;RCC_URP
+    PS4: BCG_RCC;RCC_RP;RCC_URP
+    PS5: BCG_RCC;RCC_RP;RCC_URP
+    QNX: BCG_RCC;RCC_RP;RCC_URP
+    ReservedCFE: BCG_RCC;RCC_RP;RCC_URP
+    Standalone: DECALERY_INCLUDED;BCG_RCC;RCC_RP;RCC_URP
+    VisionOS: BCG_RCC;RCC_RP;RCC_URP
+    WebGL: BCG_RCC;RCC_RP;RCC_URP
+    Windows Store Apps: BCG_RCC;RCC_RP;RCC_URP
+    XboxOne: BCG_RCC;RCC_RP;RCC_URP
+    iPhone: BCG_RCC;RCC_RP;RCC_URP
+    tvOS: BCG_RCC;RCC_RP;RCC_URP
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:

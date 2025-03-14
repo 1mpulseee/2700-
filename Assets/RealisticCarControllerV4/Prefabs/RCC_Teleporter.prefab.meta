@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbf923fc3df1a4346afdefbd363bedbd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/RCC_Teleporter.prefab
+  uploadId: 732724

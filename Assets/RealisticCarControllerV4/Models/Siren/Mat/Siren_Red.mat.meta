@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29b4cd22b6deb474e88d22ba3371ed6e
+timeCreated: 1514239147
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Siren/Mat/Siren_Red.mat
+  uploadId: 732724

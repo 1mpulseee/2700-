@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aafa4c43584dc38429d192508d18a549
+timeCreated: 1445274378
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Materials/RCCSkybox_Night.mat
+  uploadId: 732724

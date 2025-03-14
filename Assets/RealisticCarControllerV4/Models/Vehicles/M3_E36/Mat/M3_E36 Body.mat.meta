@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 083a3a8859d96e84aaa896578f60191b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/M3_E36/Mat/M3_E36 Body.mat
+  uploadId: 732724

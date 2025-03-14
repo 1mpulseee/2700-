@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73be89d7455774644b96c215e3cee9f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Resources/RCC Assets/RCC_CustomizationSetups.asset
+  uploadId: 732724

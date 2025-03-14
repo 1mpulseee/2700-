@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78742fc082cbe99458819781286133c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Wheels/Mat/Wheel2_Tire.mat
+  uploadId: 732724

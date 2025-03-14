@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54b8299f334ef3c4c86ded4aae822589
+timeCreated: 1445168598
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Physics Materials/RCC_WheelSpike.physicMaterial
+  uploadId: 732724

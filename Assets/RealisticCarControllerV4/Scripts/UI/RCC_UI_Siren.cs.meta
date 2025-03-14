@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4f1dc915123f7b84d9a41014f77fad3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Scripts/UI/RCC_UI_Siren.cs
+  uploadId: 732724

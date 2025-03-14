@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc1cb061f560e3e4cba884c6a02fb81d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/E46_New/Mat/E46_Disc.mat
+  uploadId: 732724

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c49455ff7757444fa4b466c3250f423
+timeCreated: 1425901343
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/UI/RCC_Canvas.prefab
+  uploadId: 732724

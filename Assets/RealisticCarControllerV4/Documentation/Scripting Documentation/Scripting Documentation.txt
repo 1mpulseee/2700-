@@ -1,0 +1,1 @@
+Detailed scripting documentation of the most important scripts can be found in this folder.

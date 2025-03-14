@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f80d464b8c8649d428d31108ea3a2dee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Physics Materials/RCC_TerrainPhysics2.physicMaterial
+  uploadId: 732724

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3f45a7e99f7cce4fa2b52cdc775ae5c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Terrain/Layer_1.terrainlayer
+  uploadId: 732724

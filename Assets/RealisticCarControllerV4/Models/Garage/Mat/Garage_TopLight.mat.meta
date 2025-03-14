@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e7ac267c1a0e94419cb2268944c2176
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Garage/Mat/Garage_TopLight.mat
+  uploadId: 732724

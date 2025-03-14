@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebd48e7c37dca1d4c8459fe03edcd22c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Vehicles/E30/Mat/E30_HighBeams.mat
+  uploadId: 732724

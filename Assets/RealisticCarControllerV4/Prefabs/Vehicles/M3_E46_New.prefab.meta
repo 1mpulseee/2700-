@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f5b24270dd3a52e4180206467601e919
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Prefabs/Vehicles/M3_E46_New.prefab
+  uploadId: 732724

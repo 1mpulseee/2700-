@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a574850057c76b147bb669101f508933
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.3.2
+  assetPath: Assets/RealisticCarControllerV4/Models/Garage/Mat/Garage_Floor.mat
+  uploadId: 732724
